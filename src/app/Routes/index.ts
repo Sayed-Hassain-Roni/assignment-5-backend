@@ -1,6 +1,5 @@
 import { Router } from "express";
 import { userRoutes } from "../modules/Users/user.route";
-import { FacilitiesRoutes } from "../modules/Facilities/facilities.route";
 import { TimeSlotsRoutes } from "../modules/Slots/slots.route";
 import { AuthRoutes } from "../modules/Auth/auth.route";
 import { paymentRoutes } from "../modules/payment/payment.routes";
